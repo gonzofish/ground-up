@@ -10,7 +10,7 @@ programming background. Below is the table of contents so you can get started.
 
 ## Table of Contents
 
-1. [Introduction](01_introduction.md)
+1. [Introduction](01-introduction.md)
     
     Let's get started! In this article we'll take a look at how these series
     will run, how to follow the articles, and we'll even get a web page
